@@ -3,3 +3,26 @@
 ![Python v3.7](https://img.shields.io/github/pipenv/locked/python-version/metabolize/rq-dashboard-on-heroku) ![Build passing](https://img.shields.io/github/workflow/status/actions/toolkit/Main%20workflow) ![Image Processing](https://img.shields.io/badge/internship-image%20processing-important) ![Data Science](https://img.shields.io/badge/internship-data%20analysis-blueviolet) ![Machine Learning](https://img.shields.io/badge/internship-machine%20learning-red)
 
 COMU/CE Spring 2020 Summer Internship
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
