@@ -33,5 +33,5 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
-## License
+## License ![MIT License](https://img.shields.io/github/license/trabdlkarim/comu-ce-summer-internship)
 Project under MIT License
