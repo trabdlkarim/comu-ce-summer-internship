@@ -6,19 +6,24 @@ COMU/CE Spring 2020 Summer Internship
 
 ## Table of contents
 * [General info](#general-info)
+* [Features](#features)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Usage](#usage)
+* [License](#license)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
-	
+
+## Features
+Some list of project feature
+
 ## Technologies
 Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
 	
-## Setup
+## Usage
 To run this project, install it locally using npm:
 
 ```
@@ -26,3 +31,5 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+## License
+Project under MIT License
