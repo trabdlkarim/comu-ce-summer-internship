@@ -8,7 +8,7 @@ COMU/CE Spring 2020 Summer Internship
 * [General info](#general-info)
 * [Features](#features)
 * [Technologies](#technologies)
-* [Usage](#usage)
+* [Setup](#setup)
 * [License](#license)
 
 ## General info
@@ -23,7 +23,7 @@ Project is created with:
 * Ipsum version: 2.33
 * Ament library version: 999
 	
-## Usage
+## Setup
 To run this project, install it locally using npm:
 
 ```
