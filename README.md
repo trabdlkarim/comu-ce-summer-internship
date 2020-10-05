@@ -6,32 +6,5 @@
 This repository is simple hub for notebooks and codes I wrote as a data science intern in summer 2020 at Çanakkale Onsekiz Mart University Computer Engineering Department.
 
 
-## Table of contents
-* [General info](#general-info)
-* [Features](#features)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [License](#license)
-
-## General info
-This project is simple Lorem ipsum dolor generator.
-
-## Features
-Some list of project feature
-
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
 ## License ![MIT License](https://img.shields.io/github/license/trabdlkarim/comu-ce-summer-internship)
 Project under MIT License
